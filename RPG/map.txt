@@ -1,0 +1,17 @@
+Lv. 1 Map: Search for your contact, learn location of cure.
+    (road to pergamum, gates of pergamum, secret entrance)
+
+Lv. 2 Map: Find Ministry of Medicine, learn that vital ingredients (x3?) are missing.
+    (Upper district streets, Ministry Courtyard, Ministry Lobby)
+
+Lv. 3 Map: Find first vital ingredient.
+    (city street, back alley, residential home)
+
+Lv. 4 Map: Find second vital ingredient.
+    (Prison, Barracks, Torture Chamber)
+
+Lv. 5 Map: Find third vital ingredient.
+    (Cathedral, Catacombs, Garden)
+
+Lv. 6 Map: Create cure at Ministry of Medicine. End of game.
+    (Patient Rooms, Lecture Hall, Laboratory)

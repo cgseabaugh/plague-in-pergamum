@@ -1,0 +1,136 @@
+Health Drop
+Rusted Shortsword:
+    type: melee weapon
+    patk: 3
+    ratk: 0
+    matk: 0
+    pdef: 0
+    mdef: 0
+    price: 100
+Knight's Arming Sword:
+    type: melee weapon
+    patk: 5
+    ratk: 0
+    matk: 0
+    pdef: 0
+    mdef: 0
+    price: 140
+Shabby Crossbow:
+    type: ranged weapon
+    patk: 0
+    ratk: 3
+    matk: 0
+    pdef: 0
+    mdef: 0
+    price: 90
+Hunter's Longbow:
+    type: ranged weapon
+    patk: 0
+    ratk: 5
+    matk: 0
+    pdef: 0
+    mdef: 0
+    price: 130
+Warped Cane:
+    type: magic weapon
+    patk: 0
+    ratk: 0
+    matk: 3
+    pdef: 0
+    mdef: 2
+    price: 110
+Scholar's Wand:
+    type: magic weapon
+    patk: 0
+    ratk: 0
+    matk: 5
+    pdef: 0
+    mdef: 3
+    price: 150
+Buckler:
+    type: accessory
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 2
+    mdef: 0
+    price:
+Feathered Arrows:
+    type: accessory:
+    patk: 0
+    ratk: 2
+    matk: 0
+    pdef: 0
+    mdef: 0
+    price:
+Bone Talisman:
+    type: accessory:
+    patk: 0
+    ratk: 0
+    matk: 2
+    pdef: 0
+    mdef: 1
+    price:
+Chain Hauberk:
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 4
+    mdef: 0
+    price:
+Leather Guise:
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 2
+    mdef: 2
+    price:
+Student's Gown:
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 1
+    pdef: 1
+    mdef: 4
+    price:
+Ring of Life:
+    type: accessory
+    effect: +5 Health
+
+Health Vial
+Iron Longsword
+Composite Bow
+Brimming Wand
+Iron Kite Shield
+Burning Arrows
+Tome of Deep Secrets
+Iron Scale
+Rogue's Coat
+Elegent Suit
+Rabbit's Foot
+
+Health Syrum
+Flamberge Longsword
+Steel Longbow
+Obsidian Cane
+Iron Tower Shield
+Poisoned Arrows
+Strawdoll Effigy
+Heavy Lamella
+Studded Brigadine
+Magus Robes
+Power Amulet
+
+Health Elixir
+Zweihander
+Great Bow
+Staff of Stars
+Spiked Vambraces
+Slaying Arrows
+Primordial Prophecies
+Platebody Suit
+Storm Hauberk
+Cosmic Regalia
+Furtive Cloak

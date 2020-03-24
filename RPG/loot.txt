@@ -1,0 +1,4 @@
+Health Drop, Rusted Shortsword, Knight's Arming Sword, Shabby Crossbow, Hunter's Longbow, Warped Cane, Scholar's Wand, Buckler Shield, Feathered Arrows, Leather Talisman, Chain Hauberk, Leather Guise, Student's Gown, Ring of Life
+Health Vial, Iron Longsword, Composite Bow, Brimming Wand, Iron Kite Shield, Burning Arrows, Tome of Deep Secrets, Iron Scale, Rogue's Coat, Elegent Suit, Rabbit's Foot
+Health Syrum, Flamberge Longsword, Steel Longbow, Obsidian Cane, Iron Tower Shield, Poisoned Arrows, Strawdoll Effigy, Heavy Lamella, Studded Brigadine, Magus Gown, Power Amulet
+Health Elixir, Zweihander, Great Bow, Staff of Stars, Spiked Vambraces, Slaying Arrows, Primordial Prophecies, Platebody Suit, Storm Hauberk, Cosmic Regalia, Furtive Cloak
